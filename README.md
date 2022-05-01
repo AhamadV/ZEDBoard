@@ -1,4 +1,4 @@
 # ZEDBoard
 ZED Board
 # Demo
-DEscription
+Description
